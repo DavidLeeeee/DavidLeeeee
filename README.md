@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+# My Profile
+
+<p>This is a paragraph written in HTML within Markdown.</p>
+
+## Skills
+
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+
+
 <!--
 **DavidLeeeee/DavidLeeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
