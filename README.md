@@ -1,5 +1,6 @@
 # My Profile
 <p>Hi, My name is Seokhee Lee.</p>
+<p>아날로그 기록을 선호해서 텅텅 비었지만 알찬 것들로 채워가도록 노력해볼게.</p>
 
 
 
