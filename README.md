@@ -7,9 +7,19 @@
 ## Skills
 
 <ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
+  <li><i class="fab fa-react"></i> React</li>
+  <li><i class="fab fa-react"></i> React-Native</li>
+  <li><i class="fab fa-html5"></i> HTML</li>
+  <li><i class="fab fa-css3-alt"></i> CSS</li>
+  <li><i class="fab fa-js"></i> JavaScript</li>
+  <li><i class="fab fa-js"></i> TypeScript</li>
+  <li><i class="fab fa-firefox"></i> Firebase</li>
+  <li><i class="fab fa-vercel"></i> Vercel</li>
+  <li><i class="fas fa-database"></i> MySQL</li>
+  <li><i class="fas fa-database"></i> NoSQL</li>
+  <li><i class="fab fa-figma"></i> Figma</li>
+  <li><i class="fab fa-adobe"></i> Adobe XD</li>
+  <li><i class="fab fa-adobe"></i> Adobe Illustrator</li>
 </ul>
 
 
